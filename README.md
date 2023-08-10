@@ -1,1 +1,2 @@
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SarahTech-alt)](https://github.com/anuraghazra/github-readme-stats)
+
+An accomplished Full Stack Software Engineer offering a unique blend of hands-on development, leadership, and strategic vision. Recognized for technical leadership and a dedication to fostering a culture of continuous improvement, I excel at translating complex requirements into high-value, user-centric software solutions.
